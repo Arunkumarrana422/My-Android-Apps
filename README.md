@@ -1,2 +1,34 @@
-# My-Android-Apps
-Official APK downloads for my Android applications
+# 📱 Arun Kumar Rana's App Collection
+
+Welcome to my official app download hub! Here you can download the latest APK files for all the Android applications I have developed.
+
+> **© 2026 Arun Kumar Rana. All Rights Reserved.**  
+> *Note: The source code for these applications is proprietary and private. These APKs are for personal use only.*
+
+---
+
+## 📥 Available Apps (Download Here)
+
+### 1. 💸 Expense Manager
+**Description:** A modern, dark-mode app to track daily expenses, income, and budgets.
+- **Version:** v1.0.0
+- **File Size:** 18.8 MB
+- **👇 Download Link:** [Click Here to Download APK](#) *(Paste your release link here)*
+
+---
+
+### 2. 📝 App Name (Coming Soon)
+**Description:** (Add your second app's description here)
+- **Version:** v1.0.0
+- **👇 Download Link:** [Click Here to Download APK](#)
+
+---
+
+## ⚙️ How to Install APK?
+1. Click on the download link above on your phone and download the APK.
+2. Once downloaded, open the file.
+3. If your phone shows an "Install from Unknown Sources" warning, go to Settings and allow it for your browser/file manager.
+4. Click "Install" and enjoy the app!
+
+## 🐞 Found a Bug?
+If you find any bugs in any of the apps, please report them in the [Issues](../../issues) section.
