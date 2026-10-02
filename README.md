@@ -13,7 +13,7 @@ Welcome to my official app download hub! Here you can download the latest APK fi
 **Description:** A modern, dark-mode app to track daily expenses, income, and budgets.
 - **Version:** v1.0.0
 - **File Size:** 18.8 MB
-- **👇 Download Link:** [Click Here to Download APK](#) *(Paste your release link here)*
+- **👇 Download Link:** [Click Here to Download APK](https://github.com/Arunkumarrana422/My-Android-Apps/releases/download/V1.0.0/ExpenseManager.apk)
 
 ---
 
