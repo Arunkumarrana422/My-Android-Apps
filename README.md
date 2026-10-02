@@ -20,8 +20,8 @@ Welcome to my official app download hub! Here you can download the latest APK fi
 ### 2. Arvexa Player
 **Description:** A sleek and powerful media player for all your audio and video needs. Features a built-in library organizer, equalizer, playback timer, and seamless folder navigation.
 - **Version:** v1.0.1
-- **File Size:** 18.8 MB
-- **👇 Download Link:** [Click Here to Download APK](#)
+- **File Size:** 18.69 MB
+- **👇 Download Link:** [Click Here to Download APK](https://github.com/Arunkumarrana422/My-Android-Apps/releases/download/V1.0.1/ArvexaPlayer.apk)
 
 ---
 
