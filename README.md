@@ -9,7 +9,7 @@ Welcome to my official app download hub! Here you can download the latest APK fi
 
 ## 📥 Available Apps (Download Here)
 
-### 1. Expense Manager
+### 1. 💸 Expense Manager
 **Description:** A modern, dark-mode app to track daily expenses, income, and budgets.
 - **Version:** v1.0.0
 - **File Size:** 19.68 MB
@@ -17,7 +17,7 @@ Welcome to my official app download hub! Here you can download the latest APK fi
 
 ---
 
-### 2. Arvexa Player
+### 2. 📽️ Arvexa Player
 **Description:** A sleek and powerful media player for all your audio and video needs. Features a built-in library organizer, equalizer, playback timer, and seamless folder navigation.
 - **Version:** v1.0.1
 - **File Size:** 19.59 MB
